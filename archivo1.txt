@@ -1,1 +1,2 @@
 nige 1
+Creo segunda linea a archivos1.txt nige2
